@@ -83,3 +83,16 @@ npm run dev
 
 Visit http://localhost:3000 to view the app in your browser.
 
+## Screenshots
+
+### Property Listing Page
+
+Here is the screenshot of the Property Listing Page where users can see a list of properties:
+
+![Property Listing Table](public/Screenshot.png)
+
+### Property Detail Page
+
+Here is the screenshot of the Property Detail Page where users can view detailed information about a selected property:
+
+![Property Detail Page](public/Screenshot2.png)
